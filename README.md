@@ -1,16 +1,15 @@
-### Hi there 👋
+# <p align="center"> Welcome to SENA's GitHub :)
 
-<!--
-**senasung37/senasung37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center"> 안녕하세요! 데이터를 사랑하는, 반짝반짝 빛나는 데이터 싸이언티스트를 꿈꾸는 성세은(SENA)입니다😊 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 이 깃헙은 제가 AI 부트캠프에서 7개월간, 그리고 그후 개인적으로 진행한 머신러닝/딥러닝 프로젝트들로 이루어져 있습니다.</p>
+
+<p align="center"> 피드백이나 궁금하신 점이 있다면 언제든 알려주세요! <br><br><br> </p> 
+
+
+
+
+- 📧 E-mail : seansung37@gmail.com
+- 🏠 Blog :  🔗 [https://codernang.tistory.com/](https://codernang.tistory.com/)
