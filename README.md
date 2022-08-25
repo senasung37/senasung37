@@ -11,5 +11,5 @@
 
 
 
-- 📧 E-mail : seansung37@gmail.com
+- 📧 E-mail : senasung37@gmail.com
 - 🏠 Blog :  🔗 [https://codernang.tistory.com/](https://codernang.tistory.com/)
